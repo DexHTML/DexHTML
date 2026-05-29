@@ -12,6 +12,13 @@
 
 ---
 
+## Быстрые ссылки
+
+- [Проекты для резюме](RESUME_PROJECTS.md)
+- [GitHub Pages experiments](https://github.com/DexHTML?tab=repositories)
+
+---
+
 ## Что я развиваю
 
 - внутренние сервисные системы;
