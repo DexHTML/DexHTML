@@ -110,10 +110,11 @@ FairDesk уже использует данные TechRepair и Duty Schedule в
 
 ### Текст и точка
 
-Проект о понятных текстах для сайтов, профилей, Telegram-каналов, объявлений и деловой переписки.
+Работающий контентно-сервисный MVP о понятных текстах для профилей, Telegram-каналов, сайтов-визиток, объявлений и клиентской переписки. Проект объединяет WordPress, Telegram, SEO-кластеры и проверку спроса.
 
 - [Сайт](https://tekstitochka.wordpress.com/)
 - [Telegram](https://t.me/tekstitochka_blog)
+- [Подробнее о проекте](case-studies/TEKST_I_TOCHKA.md)
 
 ### Карта в полночь
 
