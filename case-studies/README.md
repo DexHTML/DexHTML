@@ -10,7 +10,8 @@
 - [ServiceHub / FairDesk](FAIRDESK.md) — рабочий заявочный MVP с интеграциями, режимами назначения и объяснением решений.
 - [Duty Schedule](DUTY_SCHEDULE.md) — рабочая система планирования дежурств, компенсаций и доступности сотрудников.
 - [Код полуночи](KOD_POLUNOCHI.md) — production MVP Telegram-продукта с versioned content architecture и закрытой авторской механикой.
-- [Контентные и SEO-проекты](CONTENT-PROJECTS.md) — WordPress, Telegram, Дзен, SEO-структура и органическое развитие.
+- [Карта в полночь](KARTA_V_POLNOCH.md) — авторский контентный digital-проект с WordPress, SEO, Telegram-каналом и ранними поисковыми результатами.
+- [Контентные и SEO-проекты](CONTENT-PROJECTS.md) — общий обзор WordPress, Telegram, Дзена, SEO-структуры и органического развития.
 
 ## Как связаны системные проекты
 
