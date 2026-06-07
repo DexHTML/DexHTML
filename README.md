@@ -117,10 +117,11 @@ FairDesk уже использует данные TechRepair и Duty Schedule в
 
 ### Карта в полночь
 
-Атмосферный контентный проект, который развивается как связка SEO-сайта, статей и Telegram-канала.
+Авторский контентный digital-проект с сайтом на WordPress.com, Telegram-каналом «Тринадцатая Карта», SEO-развитием и персональным ботом внутри единой брендовой архитектуры.
 
 - [Сайт](https://kartavpolnoch.wordpress.com/)
 - [Telegram](https://t.me/karta_v_polnoch)
+- [Подробнее о проекте](case-studies/KARTA_V_POLNOCH.md)
 
 ### Код полуночи
 
