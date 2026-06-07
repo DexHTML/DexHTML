@@ -11,6 +11,7 @@
 - [Duty Schedule](DUTY_SCHEDULE.md) — рабочая система планирования дежурств, компенсаций и доступности сотрудников.
 - [Код полуночи](KOD_POLUNOCHI.md) — production MVP Telegram-продукта с versioned content architecture и закрытой авторской механикой.
 - [Карта в полночь](KARTA_V_POLNOCH.md) — авторский контентный digital-проект с WordPress, SEO, Telegram-каналом и ранними поисковыми результатами.
+- [Текст и точка](TEKST_I_TOCHKA.md) — работающий контентно-сервисный MVP с WordPress, Telegram, SEO-кластерами и проверкой спроса.
 - [Контентные и SEO-проекты](CONTENT-PROJECTS.md) — общий обзор WordPress, Telegram, Дзена, SEO-структуры и органического развития.
 
 ## Как связаны системные проекты
