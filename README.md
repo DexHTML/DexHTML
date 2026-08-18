@@ -1,33 +1,114 @@
-<!-- Баннер -->
-![DexHTML Banner](https://github.com/user-attachments/assets/bd6a4534-d88c-4c40-ac07-c4e3a709d31f)
+# DexHTML
 
-# 👋 Hi, I'm **DexHTML**
+## Цифровые проекты · Web · SEO · Telegram
 
-**Frontend Developer** specializing in **Crypto & Web Projects**  
-Adaptive, responsive landing pages • Smooth animations • Conversion‑focused UX
+Развиваю самостоятельные цифровые проекты и публичные эксперименты: сайты, Telegram-продукты, SEO-MVP и контентные направления.
 
----
+Мой подход:
 
-## 🚀 Live Projects
-- [Crypto Landing Demo](https://dexhtml.github.io/crypto-landing-demo/)  
-- [NFT Marketplace Demo](https://dexhtml.github.io/nft-landing-demo/)
+**идея → пользовательская задача → структура → реализация → проверка → развитие**
+
+Мне интересны проекты, где важно понять задачу, собрать понятный пользовательский сценарий, проверить гипотезу и постепенно улучшать результат.
 
 ---
 
-## 🛠 Tech Stack
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-181717?style=for-the-badge&logo=github&logoColor=white)
-![Responsive Design](https://img.shields.io/badge/Responsive%20Design-00C7B7?style=for-the-badge&logo=responsive&logoColor=white)
+## Продуктовые, контентные и SEO-проекты
+
+### Текст и точка
+
+Работающий контентно-сервисный MVP о понятных текстах для профилей, Telegram-каналов, сайтов-визиток, объявлений и клиентской переписки. Проект объединяет WordPress, Telegram, SEO-кластеры и проверку спроса.
+
+- [Сайт](https://tekstitochka.wordpress.com/)
+- [Telegram](https://t.me/tekstitochka_blog)
+- [Подробнее о проекте](case-studies/TEKST_I_TOCHKA.md)
+
+### Карта в полночь
+
+Авторский контентный digital-проект с сайтом на WordPress.com, Telegram-каналом «Тринадцатая Карта», SEO-развитием и персональным ботом внутри единой брендовой архитектуры.
+
+- [Сайт](https://kartavpolnoch.wordpress.com/)
+- [Telegram](https://t.me/karta_v_polnoch)
+- [Подробнее о проекте](case-studies/KARTA_V_POLNOCH.md)
+
+### Код полуночи
+
+Персональный Telegram-продукт внутри мира «Карта в полночь». Работающий production MVP объединяет простой пользовательский сценарий, авторскую символическую интерпретацию и версионируемую контентную архитектуру.
+
+Основной код и уникальная механика остаются закрытыми.
+
+[Подробнее о проекте](case-studies/KOD_POLUNOCHI.md)
+
+### НейроПомощник
+
+Действующий ранний AI-контентный проект о практическом использовании нейросетей в повседневных и рабочих задачах. Проект объединяет Дзен, Telegram, готовые запросы, визуальную упаковку и анализ ранней статистики.
+
+- [Дзен](https://dzen.ru/neiro_pomoshnik)
+- [Telegram](https://t.me/neiro_pomoshnik)
+- [Подробнее о проекте](case-studies/NEIROPOMOSHNIK.md)
+
+### Проверь перед действием
+
+Ранний SEO-MVP на GitHub Pages с короткими пользовательскими проверками и инструкциями для ситуаций, где важно остановиться и оценить риск перед действием.
+
+- [Сайт](https://dexhtml.github.io/check-before-action/)
+- [Репозиторий](https://github.com/DexHTML/check-before-action)
+- [Подробнее о проекте](case-studies/CHECK_BEFORE_ACTION.md)
 
 ---
 
-## 📬 Contact
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@Slaffkamak)
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:immun1986@gmail.com)
+## Frontend-демонстрации
+
+- [AutoService Demo](https://github.com/DexHTML/AutoService-Demo) — многостраничный адаптивный сайт сферы услуг.
+- [Gym Landing](https://github.com/DexHTML/gym-landing-dexhtml) — адаптивный лендинг с анимациями.
+- [Crypto Landing Demo](https://github.com/DexHTML/crypto-landing-demo) — статический адаптивный лендинг.
+- [NFT Landing Demo](https://github.com/DexHTML/nft-landing-demo) — адаптивная сетка, карточки и JavaScript-анимации.
 
 ---
 
-## 📊 GitHub Stats
-![DexHTML's GitHub stats](https://github-readme-stats.vercel.app/api?username=DexHTML&show_icons=true&theme=tokyonight)
+## Технологии и направления
+
+Работаю с проектами, где используются:
+
+- Python;
+- HTML / CSS / JavaScript;
+- WordPress;
+- Telegram;
+- GitHub;
+- GitHub Pages;
+- SEO;
+- системная документация;
+- проектирование пользовательских сценариев;
+- тестирование и постепенное внедрение изменений.
+
+AI-инструменты использую для ускорения анализа, разработки и подготовки документации. Итоговые решения проверяю вручную и внедряю постепенно.
+
+---
+
+## Как я работаю
+
+При работе над проектом стараюсь сначала понять:
+
+- какую проблему он решает;
+- кто будет им пользоваться;
+- какой сценарий должен быть простым и понятным;
+- что необходимо проверить до публикации;
+- какие данные помогут принять следующее решение.
+
+Предпочитаю постепенное развитие:
+
+**анализ → небольшой шаг → проверка → фиксация результата → следующий этап**
+
+---
+
+## Дополнительно
+
+- [Все case studies](case-studies/README.md)
+- [Карьерная сводка проектов](RESUME_PROJECTS.md)
+- [Все публичные репозитории](https://github.com/DexHTML?tab=repositories)
+
+---
+
+## Контакты
+
+- Telegram: [@Slaffkamak](https://t.me/Slaffkamak)
+- Email: [написать](mailto:immun1986%40gmail.com)
