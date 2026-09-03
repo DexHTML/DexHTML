@@ -18,7 +18,7 @@
 - [АРХИВ 03:17](ARHIV_0317.md) — YouTube Shorts-проект с серийным production workflow и retention-анализом.
 - [НейроПомощник](NEIROPOMOSHNIK.md) — контентный проект с Дзеном, Telegram, AI-assisted workflow и аналитикой.
 - [Текст и точка](TEKST_I_TOCHKA.md) — контентно-сервисный MVP с WordPress, Telegram, SEO и ручной продуктовой валидацией.
-- [Контентные и SEO-проекты](CONTENT-PROJECTS.md) — навигатор по публичным контентным кейсам.
+- [Контентные, SEO- и медиа-проекты](CONTENT-PROJECTS.md) — отдельный навигатор по этим кейсам.
 
 ## Архитектура внутренних модулей
 
