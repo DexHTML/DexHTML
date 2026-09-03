@@ -10,13 +10,14 @@
 
 Эти проекты используют закрытый исходный код. Публичные case studies содержат только безопасное описание архитектуры, функций, проверок и статуса без production-данных, внутренних адресов и секретов.
 
-## Продуктовые, контентные и SEO-кейсы
+## Продуктовые, контентные и медиа-кейсы
 
-- [Код полуночи](KOD_POLUNOCHI.md) — Telegram-продукт с версионируемой контентной архитектурой.
-- [Карта в полночь](KARTA_V_POLNOCH.md) — WordPress, SEO, Telegram и авторская контентная экосистема.
-- [Текст и точка](TEKST_I_TOCHKA.md) — контентно-сервисный MVP с WordPress, Telegram и SEO-кластерами.
+- [Код полуночи](KOD_POLUNOCHI.md) — production Telegram-продукт с free/full flow, Telegram Stars и версионируемой контентной архитектурой.
+- [Карта в полночь](KARTA_V_POLNOCH.md) — WordPress, SEO, Telegram и product conversion experiments.
+- [Проверь перед действием](CHECK_BEFORE_ACTION.md) — SEO-MVP на GitHub Pages с интерактивными проверками, аудитом и поисковой аналитикой.
+- [АРХИВ 03:17](ARHIV_0317.md) — YouTube Shorts-проект с серийным production workflow и retention-анализом.
 - [НейроПомощник](NEIROPOMOSHNIK.md) — контентный проект с Дзеном, Telegram, AI-assisted workflow и аналитикой.
-- [Проверь перед действием](CHECK_BEFORE_ACTION.md) — SEO-MVP на GitHub Pages с интерактивными проверками и поисковой инфраструктурой.
+- [Текст и точка](TEKST_I_TOCHKA.md) — контентно-сервисный MVP с WordPress, Telegram, SEO и ручной продуктовой валидацией.
 - [Контентные и SEO-проекты](CONTENT-PROJECTS.md) — навигатор по публичным контентным кейсам.
 
 ## Архитектура внутренних модулей
